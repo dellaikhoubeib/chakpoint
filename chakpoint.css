@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+.container{
+
+    text-align: center;
+    font-family: system-ui;
+    color: brown;
+}
+#change-color-btn{
+    cursor: pointer;
+    border: none;
+
+    
+    border-radius: 20px;
+    margin-left: 700px;
+    margin-top: 41px;
+    color: bisque;
+    background-color: blueviolet;
+
+    
+}
+#color-box{
+
+    background-color: gray;
+    width: 100%;
+    height: 100px;
+}
